@@ -1,4 +1,5 @@
 # Diagrama de Flujo
+Escriba un algoritmo que de como resultado el promedio de tres números.
 
 1. Inicio
 2. Ingrese num1
